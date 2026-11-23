@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SHOP TIME MASTER</string>
+    <string name="subtitle">Personal Business Time &amp; Productivity Tracker</string>
+    <string name="check_in">SHOP CHECK IN</string>
+    <string name="check_out">SHOP CHECK OUT</string>
+</resources>

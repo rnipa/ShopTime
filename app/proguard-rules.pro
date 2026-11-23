@@ -1,0 +1,2 @@
+-keep class com.shoptimemaster.app.data.local.entity.** { *; }
+-dontwarn com.google.errorprone.annotations.**
